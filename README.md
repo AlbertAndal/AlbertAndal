@@ -32,7 +32,5 @@
 
 <br style="clear:both">
 
-<img src="https://raw.githubusercontent.com/Nix-GitHubEdu/Nix-GitHubEdu/output/snake.svg" alt="Snake animation" />
-
 </body>
 </html>
